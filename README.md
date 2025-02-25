@@ -62,9 +62,3 @@ Generates a response based on user input and scraped data using the language mod
 - Avoid scraping websites that prohibit web scraping in their `robots.txt`.
 - Using large models like LLaMA 2 may require high computational resources.
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name]
-
